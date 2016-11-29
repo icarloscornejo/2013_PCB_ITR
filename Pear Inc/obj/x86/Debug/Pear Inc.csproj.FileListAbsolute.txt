@@ -1,0 +1,32 @@
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\bin\Debug\Pear Inc.exe
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\bin\Debug\Pear Inc.pdb
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\obj\x86\Debug\Pear_Inc.frmBoot.resources
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\obj\x86\Debug\Pear_Inc.Properties.Resources.resources
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\obj\x86\Debug\Pear Inc.csproj.GenerateResource.Cache
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\obj\x86\Debug\Pear Inc.exe
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\obj\x86\Debug\Pear Inc.pdb
+C:\Users\Carlos\AppData\Local\Temporary Projects\Pear Inc\obj\x86\Debug\Pear_Inc.frmLogin.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\bin\Debug\Pear Inc.exe
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\bin\Debug\Pear Inc.pdb
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmBoot.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmLogin.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.Properties.Resources.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear Inc.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear Inc.exe
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear Inc.pdb
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear Inc.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmMessageBox.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmMenuSADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmMenuADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmBuscarEmpleados.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmAgregarCargosADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmAgregarCargosSADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmAgregarEmpleadosSADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmAgregarAdministradoresSADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmAgregarEmpleadosADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\bin\Debug\AForge.Video.dll
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmEditarCargos.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmEditarAdministradoresSADM.resources
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\bin\Debug\itextsharp.dll
+C:\Users\Carlos\Desktop\PCB\Pear Inc\Pear Inc\obj\x86\Debug\Pear_Inc.frmPlanillaCompleta.resources
